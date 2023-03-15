@@ -1,7 +1,7 @@
 # test
 introdução a testes com jest 
 
-executa test
+executar test
 
 ```
 npm run test
